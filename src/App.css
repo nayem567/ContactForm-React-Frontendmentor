@@ -1,0 +1,9 @@
+
+
+main{
+    width: 1440px;
+    background-color: var(--green-light);
+    margin: 0 auto;
+    padding: 1rem;
+}
+
